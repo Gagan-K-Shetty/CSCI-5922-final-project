@@ -8,3 +8,5 @@ For generating the images from stable diffusion, we use the captions from VizViz
 Feature extraction was done using the Feature extraction.ipynb. The extracted features are stored in google drive.
 
 The models were generated using the Model evaluation.ipynb. The model weights are stored in google drive.
+
+Youtube link with a video explaination of the project : [https://youtu.be/Ioyrh0I723k](https://youtu.be/Ioyrh0I723k)
